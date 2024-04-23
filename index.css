@@ -1,0 +1,9 @@
+body{
+    background-color:#0f172a;
+    height: 100vh;
+    font-family: "Roboto";
+    text-align: center;
+}
+.greeting{
+    color:#f8fafc;
+}
